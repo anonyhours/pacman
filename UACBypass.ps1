@@ -4,7 +4,7 @@ function Invoke-UACBypass {
 
 Bypasses UAC on Windows 10 by abusing the SilentCleanup task to win a race condition, allowing for a DLL hijack without a privileged file copy.
 
-Author: Matthew Graeber (@mattifestation), Matt Nelson (@enigma0x3)
+
 License: BSD 3-Clause
 Required Dependencies: None
 Optional Dependencies: None
